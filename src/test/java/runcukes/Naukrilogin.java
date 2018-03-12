@@ -9,3 +9,4 @@ plugin = {"html:target/cucumber-reports"})
 public class Naukrilogin extends AbstractTestNGCucumberTests {
 
 }
+
